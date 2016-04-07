@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Peloton</string>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_maps">Kaart</string>
+    <string name="title_activity_settings">Instellingen</string>
+    <string name="title_activity_measure">Metingen</string>
+    <string name="Location_found">Locatie gevonden, kalibreer het toestel</string>
+    <string name="Ready_for_tracking">Klaar om te meten!</string>
+    <string name="Transformation_accel_axis">Transformatie van accelerometerassen</string>
+    <string name="Searching_day_night">Dag/nacht opzoeken op basis van locatie</string>
+    <string name="Saving_data">Data opslaan...</string>
+    <string name="Tracking_data_roads_lights">Bezig met data opmeten: wegen en verlichting</string>
+    <string name="Tracking_data_roads_only">Bezig met date opmeten: enkel wegen</string>
+    <string name="Calibrate">Kalibreer</string>
+    <string name="Start">Start</string>
+    <string name="filename">bestandsnaam</string>
+    <string name="Measurements">Metingen</string>
+    <string name="maps">Kaart</string>
+    <string name="Settings">Instellingen</string>
+    <string name="Leaderboard">Scorebord</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="stop">Stop en sla op</string>
+    <string name="title_activity_leaderboard">Scorebord</string>
+    <string name="title_activity_username">Gebruikersnaam</string>
+    <string name="google_maps_key_server" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyDkpXEmdOQwIQdf0daf0zMaOeZMRzZ2uXo
+    </string>
+    <string name="week">Week</string>
+    <string name="month">Maand</string>
+    <string name="all_time">Alle gegevens</string>
+    <string name="username_menu_button">Gebruikersnaam</string>
+    <string name="dev_No_location_found_yet">Nog geen locatie gevonden</string>
+    <string name="dev_accuracy">precisie</string>
+    <string name="dev_lux">lux</string>
+    <string name="dev_force_lighttracking">Forceer lighttracking</string>
+    <string name="Choose_one_of_your_previous_usernames">Kies één van je vorige gebruikersnamen:</string>
+    <string name="Or_choose_another_username">Of kies een nieuwe gebruikersnaam:</string>
+    <string name="username_edittext">Gebruikersnaam</string>
+    <string name="choose_username_button">Kies gebruikersnaam</string>
+    <string name="No_connection_leaderboard">Verbind eerst met het internet en open daarna het score board opnieuw</string>
+    <string name="No_connection_map">Verbind eerst met het internet en open daarna de kaart opnieuw</string>
+    <string name="Spinner_geen_data">Geen data</string>
+    <string name="Spinner_globale_wegkwaliteit">Globale wegkwaliteit</string>
+    <string name="Spinner_globale_lichtkwaliteit">Globale lichtkwaliteit</string>
+    <string name="Spinner_wegkwaliteit_eigen_routes">Wegkwaliteit eigen routes</string>
+    <string name="Spinner_lichtkwaliteit_eigen_routes">Lichtkwaliteit eigen routes</string>
+    <string name="Toast_no_routes_found">Geen routes gevonden</string>
+    <string name="Toast_no_permission_location">Je hebt nog geen toestemming gegeven in de instellingen!</string>
+    <string name="toast_no_internet_on_calibrate">Verbind aub met het internet</string>
+    <string name="Toast_no_permission_settings">Je moet nog toestemming geven in de instellingen!</string>
+    <string name="Toast_no_connection_on_saving_data">Verbind aub met het internet en probeer opnieuw</string>
+    <string name="button_stop_stopped_save">Klaar. Opslaan?</string>
+    <string name="data_succesfull_to_server">Data succesvol op de server opgeslagen!</string>
+    <string name="no_connection">Verbind aub eerst met het internet</string>
+    <string name="Toast_your_username">"Jouw gebruikersnaam: "</string>
+    <string name="username_already_taken">Gebruikersnaam al in gebruik</string>
+    <string name="No_connection_try_again">Verbind aub eerst met het internet</string>
+    <string name="username_letters_numbers_error">De gebruikersnaam mag enkel bestaan uit letters en cijfers.</string>
+    <string name="Toast_your_rank_is">"Jouw rang is "</string>
+    <string name="Setting_data_collectie">Data-collectie</string>
+    <string name="Setting_data__collectie_tekst">Ik geef hierbij toestemming aan de ontwikkelaars van deze applicatie om de data gemeten met mijn smartphone te gebruiken voor alle doeleinden binnen deze applicatie.</string>
+    <string name="Setting_zomeruur">Zomeruur</string>
+    <string name="Setting_zomeruur_tekst">is het momenteel zomeruur?</string>
+    <string name="Setting_lijndikte">Lijndikte</string>
+    <string name="Settings_lijndikte_tekst">Kies een lijndikte voor de lijnen op de kaart</string>
+    <string name="Setting_developper_pass">Ontwikkelaars passwood</string>
+    <string name="Setting_enter_password">Vul passwoord in:</string>
+    <string name="Setting_dev_mode">Ontwikkelaars modus</string>
+    <string name="Setting_dev_mode_tekst">Hiermee kan de ontwikkelaars modus aangezet worden</string>
+    <string name="Setting_server">Server</string>
+    <string name="Setting_server_tekst">Kies een server (enkel voor ontwikkelaars)</string>
+    <string name="Setting_pointers">Aanduidingen op de kaart (enkel voor ontwikkelaars)</string>
+    <string name="Setting_pointers_tekst">Maak de extra aanduidingen op de map actief</string>
+
+    <string name="User_guide_home_page_a">Welkom bij Peloton! Een applicatie speciaal ontworpen om de kwaliteit van de wegen voor fietsers te meten en in kaart te brengen. De applicatie gebruikt voor dit alles enkel de sensoren in je smartphone. Het mooie aan de applicatie is dat iedereen met een smartphone en een statief om deze op zijn/haar fiets te monteren kan helpen om de map representatiever te maken!</string>
+    <string name="User_guide_home_page_b">Wil je er meteen invliegen en beginnen fietsen? Monteer je smartphone dan op je fiets en druk op de ‘Metingen’ knop.</string>
+    <string name="User_guide_home_page_c">Wens je gewoon eens naar de weg kwaliteit? Druk dan op de ‘Kaart’ knop en selecteer rechts bovenaan wat je juist wil zien. Hierna kan je vrij op de map wegen en inzoomen.</string>
+    <string name="User_guide_home_page_d">In het ‘Instellingen’ kan je enkel instellingen aanpassen.</string>
+    <string name="User_guide_home_page_e">Wil je weten wie de meeste bijdragen aan deze applicatie levert? Druk dan op de ‘Score bord’ knop.</string>
+    <string name="User_guide_home_page_f">In het ‘Gebruikersnaam’ gedeelte kan je een gebruikers naam kiezen als je dit nog niet gedaan hebt of een tweede toevoegen.</string>
+    <string name="User_guide_home_page_g">Als je op het ‘Fietslocatie opslaan’ deel drukt, slaat de applicatie in de achtergrond je locatie op en geeft deze met een pointer weer op de map. Op deze manier kan je niet meer  vergeten waar je je fiets laatst gezet hebt!</string>
+
+    <string name="User_guide_metingen_1">Welkom! Voordat je kan beginnen met data te verzamelen, moet je je smartphone eerst stevig op je fiets monteren om optimale metingen te bekomen. Een werkende mobiele internet connectie is nodig bij het opstarten en eindigen van je sessie. We gaan je nu helpen bij het doorlopen van alle stappen die nodig zijn om te beginnen. Als eerste stap moet je je fiets in een comfortabele positie zetten. Wacht nu tot je smartphone een gps connectie gevonden heeft en druk vervolgens op de knop ‘Kalibreer’.</string>
+    <string name="User_guide_metingen_2">Je smartphone is nu gekalibreerd! Je kan nu op de start knoppen drukken en beginnen te fietsen.</string>
+    <string name="User_guide_metingen_3">We meten nu de data van je fietstocht op tot op het moment dat je op de ‘Stop en sla op’ knop drukt. Dit zorgt ervoor dat de data op onze server wordt opgeslagen en de sessie gestopt. Hierna kan je je route op de map zien als de data bruikbaar was.</string>
+    <string name="User_guide_metingen_4">Bedankt voor je bijdrage! Je kan nu terug gaan naar het hoofdmenu of een nieuwe sessie beginnen.</string>
+    <string name="help_screen_ok">OK</string>
+    <string name="help_icon">Help</string>
+    <string name="Status_saving_data">Data opslaan ...</string>
+    <string name="Toast_locatie_gevonden_en_opgeslagen">Locatie gevonden en opgeslagen.</string>
+    <string name="title_activity_location_saver">Fietslocatie opslaan</string>
+    <string name="button_save_bike_location">Fietslocatie opslaan</string>
+    <string name="Searching_for_location">Zoeken naar locatie...</string>
+    <string name="show_last_bike_location">Toon laatste fietslocatie</string>
+    <string name="Toast_searching_for_location_save_bike_location">Zoeken naar locatie... Wacht hier totdat een locatie gevonden is.</string>
+    <string name="Preference_negeer_accuracy">Negeer accuracy</string>
+    <string name="title_activity_street_view">StreetView</string>
+    <string name="Preference_metingen_weergeven">Metingen weergeven</string>
+    <string name="Total_distance">Totale afstand (in km):</string>
+
+
+
+
+</resources>

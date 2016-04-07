@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="serverentries">
+        <item>Standard server</item>
+        <item>Server</item>
+        <item>Server1</item>
+        <item>Server2</item>
+        <item>Server3</item>
+        <item>Server4</item>
+    </string-array>
+    <string-array name="servervalues">
+        <item>A2</item>
+        <item>A2TEST</item>
+        <item>A2TEST1</item>
+        <item>A2TEST2</item>
+        <item>A2TEST3</item>
+        <item>A2TEST4</item>
+    </string-array>
+    <string-array name="lijnentries">
+        <item>Heel dun</item>
+        <item>Dun</item>
+        <item>Normaal</item>
+        <item>Dik</item>
+        <item>Heel dik</item>
+    </string-array>
+    <string-array name="lijnvalues">
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>

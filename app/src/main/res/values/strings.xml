@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Peloton</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_measure">Measurement</string>
+    <string name="Location_found">Location found, please Calibrate your device</string>
+    <string name="Ready_for_tracking">Ready to start measuring!</string>
+    <string name="Transformation_accel_axis">Transformation of the accelerometer axis</string>
+    <string name="Searching_day_night">Searching day/night times based on location</string>
+    <string name="Saving_data">Saving data...</string>
+    <string name="Tracking_data_roads_lights">Measuring data: roads and lighting</string>
+    <string name="Tracking_data_roads_only">Measuring data: roads only</string>
+    <string name="Calibrate">Calibrate</string>
+    <string name="Start">Start</string>
+    <string name="filename">filename</string>
+    <string name="Measurements">Measurements</string>
+    <string name="maps">Map</string>
+    <string name="Settings">Settings</string>
+    <string name="Leaderboard">Leaderboard</string>
+    <string name="username">Username</string>
+    <string name="stop">Stop and save</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+    <string name="title_activity_username">Username</string>
+    <string name="google_maps_key_server" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyDkpXEmdOQwIQdf0daf0zMaOeZMRzZ2uXo
+    </string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="all_time">All time</string>
+    <string name="username_menu_button">Username</string>
+    <string name="dev_No_location_found_yet">No location found yet</string>
+    <string name="dev_accuracy">accuracy</string>
+    <string name="dev_lux">lux</string>
+    <string name="dev_force_lighttracking">Force lighttracking</string>
+    <string name="Choose_one_of_your_previous_usernames">Choose one of your previous usernames:</string>
+    <string name="Or_choose_another_username">Or choose another username:</string>
+    <string name="username_edittext">username</string>
+    <string name="choose_username_button">Choose username</string>
+    <string name="No_connection_leaderboard">Please connect to the internet and open the leaderboard again.</string>
+    <string name="No_connection_map">Please connect to the internet and open the map again.</string>
+    <string name="Spinner_geen_data">No data</string>
+    <string name="Spinner_globale_wegkwaliteit">Global road quality</string>
+    <string name="Spinner_globale_lichtkwaliteit">Global lighting quality</string>
+    <string name="Spinner_wegkwaliteit_eigen_routes">Road quality own routes</string>
+    <string name="Spinner_lichtkwaliteit_eigen_routes">Lighting quality own routes</string>
+    <string name="Toast_no_routes_found">No routes found</string>
+    <string name="Toast_no_permission_location">You have not yet granted permission in the settings</string>
+    <string name="toast_no_internet_on_calibrate">Please connect to the internet.</string>
+    <string name="Toast_no_permission_settings">You should give permission to collect data in settings.</string>
+    <string name="Toast_no_connection_on_saving_data">Please connect to the internet and try again.</string>
+    <string name="button_stop_stopped_save">Stopped. Save data?</string>
+    <string name="data_succesfull_to_server">Data succesfully saved to the server!</string>
+    <string name="no_connection">Please connect to the internet.</string>
+    <string name="Toast_your_username">"Your username: "</string>
+    <string name="username_already_taken">Username already taken</string>
+    <string name="No_connection_try_again">No internet connection, try again.</string>
+    <string name="username_letters_numbers_error">Your username can only consist of letters and numbers!</string>
+    <string name="Toast_your_rank_is">"Your rank is "</string>
+    <string name="Setting_data_collectie">Data collection</string>
+    <string name="Setting_data__collectie_tekst">I hereby give the permission to the developers of this app to use the data measured with my smartphone for all purposes in this app.</string>
+    <string name="Setting_zomeruur">DST</string>
+    <string name="Setting_zomeruur_tekst">Is it DST?</string>
+    <string name="Setting_lijndikte">Line width</string>
+    <string name="Settings_lijndikte_tekst">Choose the width of the lines on the map</string>
+    <string name="Setting_developper_pass">Developer password</string>
+    <string name="Setting_enter_password">enter password</string>
+    <string name="Setting_dev_mode">Developing mode</string>
+    <string name="Setting_dev_mode_tekst">Switch to turn on developing mode enter password above to enable</string>
+    <string name="Setting_server">Server</string>
+    <string name="Setting_server_tekst">Choose a server (only for developing mode)</string>
+    <string name="Setting_pointers">Pointers on map (only for developing mode)</string>
+    <string name="Setting_pointers_tekst">Switch to turn on pointers on the map</string>
+
+    <string name="User_guide_home_page_a">Welcome to Peloton! An app designed to measure and map the quality of the roads for cyclists. All of this is done using only the sensors inside your smartphone. The beauty of this all is that everybody with a smartphone and a mount for his/her phone can start cycling and contributing to the map! </string>
+    <string name="User_guide_home_page_b">Want to start cycling and collecting data? Just mount your phone, make sure you have an mobile internet and go to the ‘Measure’ tab.</string>
+    <string name="User_guide_home_page_c">Just want to see the quality of the roads in your neighbourhood? Go to the ‘Map’ tab and select what you want to see in the upper right corner.</string>
+    <string name="User_guide_home_page_d">Go to the ‘Settings’ tab if you want to edit the settings. </string>
+    <string name="User_guide_home_page_e">Want to see the most active cyclists and the distance they contributed to the map? Go to the ‘Leaderboard’ tab and see all the details.</string>
+    <string name="User_guide_home_page_f">Go to the ‘Username’ to choose a username if you haven’t already or add a second one.</string>
+    <string name="User_guide_home_page_g">If you press the ‘Save bike location’ tab, the app will save your current location in the background and put a pointer on the map. This way you will never forget where you parked your bike again.</string>
+
+    <string name="User_guide_metingen_1">Welcome! Before you can start collecting data, make sure that your smartphone is firmly attached to your bicycle for optimal measurements. A working mobile internet connection is also required while starting and ending your measurements. We will now walk you through the steps you have to take before you can start! First make sure your bicycle is in a natural position. Now wait until your device has found a gps connection and tap the ‘Calibrate’ button.</string>
+    <string name="User_guide_metingen_2">Your phone is now calibrated and you can now press the ‘Start’ button and start cycling!</string>
+    <string name="User_guide_metingen_3">We will now measure the data of your trip until you press the ‘Stop and save’ button. This will save the data to our server and end your session. Afterwards you will be able to see your trip on the map if your data was useable. </string>
+    <string name="User_guide_metingen_4">Thanks for contributing! You can now go back to the main menu or start collecting data again!</string>
+    <string name="help_screen_ok">OK</string>
+    <string name="help_icon">Help</string>
+    <string name="title_activity_location_saver">Save bike location</string>
+
+    <string name="Status_saving_data">Saving data ...</string>
+    <string name="Toast_locatie_gevonden_en_opgeslagen">Location found and saved.</string>
+    <string name="button_save_bike_location">Save bike location</string>
+    <string name="Searching_for_location">Searching for location...</string>
+    <string name="show_last_bike_location">Show last bike location</string>
+    <string name="title_activity_photo">Photo</string>
+    <string name="Toast_searching_for_location_save_bike_location">Searching for location, wait here until location is found.</string>
+    <string name="title_activity_street_view">StreetView</string>
+    <string name="Preference_negeer_accuracy">Ignore accuracy</string>
+    <string name="Preference_metingen_weergeven">Show measurements</string>
+    <string name="Total_distance">Total distance (in km):</string>
+</resources>
